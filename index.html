@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-COmpatible" conent="ie=edge">
+    <title>Do You Know Code Quiz?</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+ <div id="information" class="information">
+         <div id="scoreviewing" class= "scoreViewing">View History</div>
+         <div id="timer" class="time">Time Remaining:</div>
+ </div>
+ <div id="beginPage" class="beginPage">
+        <h1 id="begin" class= "begin">Do you Know Code?</h1>
+        <p id="instructions" class="time">Answer the following questions about Coding within the time permitted. Please beware that incorect answers will cause the time to decrease by ten seconds :/ </p>
+        <button id="beginButton" class="beginBtn">Begin Quiz</button>
+ </div>
+<div id="questionCard" class="hidden">
+        <h2 id="questions"></h2>
+        <ul id="answerCard"></ul>
+        <p id="revealAnswer"></p>
+</div>
+<div id="nameEntry" class="hidden">
+        <h2 id="finished" class= "finished">View History</h2>
+        <p id="results" class="results"></p>
+        <br>
+        <label>Enert Initials:</label>
+        <input type="text" name="your-Initials" id="your-Initials"/>
+        <button id="sign" class="sign">Sign</button>
+</div>
+<div id="endQuiz" class="endquiz  hidden">
+        <h2>View History</h2>
+        <ul id="scoreHistory"></ul>
+        <button id="returnBtn" class="returnBtn">Return to previous</button>
+</div>
+ <script src="assets/js/script.js"></script>
+</body>
+</html>
