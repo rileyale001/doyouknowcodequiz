@@ -9,20 +9,23 @@
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
+        <!--Veiw timer-->
  <div id="information" class="information">
-         <div id="scoreviewing" class= "scoreViewing">View History</div>
-         <div id="timer" class="time">Time Remaining:</div>
+         <div id="timer" class="timer">Time Remaining:</div>
  </div>
+   <!--beginpage will show rules and start button-->
  <div id="beginPage" class="beginPage">
-        <h1 id="begin" class= "begin">Do you Know Code?</h1>
-        <p id="instructions" class="time">Answer the following questions about Coding within the time permitted. Please beware that incorect answers will cause the time to decrease by ten seconds :/ </p>
-        <button id="beginButton" class="beginBtn">Begin Quiz</button>
+        <h1 id="start" class= "start">Do you Know Code?</h1>
+        <p id="instructions" class="instructions">Answer the following questions about Coding within the time permitted. Please beware that incorect answers will cause the time to decrease by ten seconds :/ </p>
+        <button id="startBtn" class="startBtn">Begin Quiz</button>
  </div>
+   <!--question cards are hidden and reveals answer correct or inccorrect-->
 <div id="questionCard" class="hidden">
         <h2 id="questions"></h2>
         <ul id="answerCard"></ul>
         <p id="revealAnswer"></p>
 </div>
+ <!--name entry with initials and results-->
 <div id="nameEntry" class="hidden">
         <h2 id="finished" class= "finished">View History</h2>
         <p id="results" class="results"></p>
@@ -31,10 +34,12 @@
         <input type="text" name="your-Initials" id="your-Initials"/>
         <button id="sign" class="sign">Sign</button>
 </div>
+ <!--end quiz results-->
 <div id="endQuiz" class="endquiz  hidden">
         <h2>View History</h2>
         <ul id="scoreHistory"></ul>
-        <button id="returnBtn" class="returnBtn">Return to previous</button>
+        <button id="backBtn" class= "backBtn">Go Back</button>
+        <button id="deleteScoreBtn" class="deleteScoreBtn">Return to previous</button>
 </div>
  <script src="assets/js/script.js"></script>
 </body>
