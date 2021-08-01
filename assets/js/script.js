@@ -220,7 +220,7 @@ function finalQuizResults() {
   document.getElementById("nameEntry").classList.add("hidden");
   document.getElementById("endQuiz").classList.remove("hidden");
 
-  var listScore = document.getElementById("scoreHistory");
+  var scoreHistory = document.getElementById("scoreHistory");
   for (var i = 0, len = localStorage.length; i < len; i++) {
     var key = localStorage.key(i);
     var asset = localStorage.getItem(localStorage.key(i));
