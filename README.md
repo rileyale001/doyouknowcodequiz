@@ -14,12 +14,12 @@ The following was executed in the Javascript:
 - User is prompted to select their team members and provide their information github user, email, id, and name
 - An HTML is generated so that it displays information that the user inputs
 
-![Screenshot](./img/hw4ss.PNG)
-![Screenshot](./img/hw4ss1.PNG)
-![Screenshot](./img/hw4ss2.PNG)
-![Screenshot](./img/hw4ss3.PNG))
-![Screenshot](./img/hw4ss4.PNG)
-![Screenshot](./img/hw4ss5.PNG)
+![Screenshot](./mycodequiz/img/hw4ss.PNG)
+![Screenshot](./mycodequiz/img/hw4ss1.PNG)
+![Screenshot](./mycodequiz/img/hw4ss2.PNG)
+![Screenshot](./mycodequiz/img/hw4ss3.PNG))
+![Screenshot](./mycodequiz/img/hw4ss4.PNG)
+![Screenshot](./mycodequiz/img/hw4ss5.PNG)
 
 ## Links
 
