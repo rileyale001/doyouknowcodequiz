@@ -16,16 +16,16 @@ The following was executed in the Javascript:
 
 ![Screenshot](assets/img/hw4ss.PNG)
 
-![Screenshot](./doyouknowcodequiz/mycodequiz/img/hw4ss1.PNG)
+![Screenshot](assets/img/hw4ss1.PNG)
 
-![Screenshot](./doyouknowcodequiz/mycodequiz/img/hw4ss2.PNG)
+![Screenshot](assets//img/hw4ss2.PNG)
 
-![Screenshot](./doyouknowcodequiz/mycodequiz/img/hw4ss3.PNG)
-![Screenshot](./doyouknowcodequiz/mycodequiz/img/hw4ss4.PNG)
-![Screenshot](./doyouknowcodequiz/mycodequiz/img/hw4ss5.PNG)
+![Screenshot](assets//img/hw4ss3.PNG)
+![Screenshot](assets/img/hw4ss4.PNG)
+![Screenshot](assets/img/hw4ss5.PNG)
 
 ## Links
 
 [Github](https://github.com/rileyale001/doyouknowcodequiz)
 
-[Website link](https://www.youtube.com/watch?v=IJO0xBGoO4o)
+[Website link](https://rileyale001.github.io/doyouknowcodequiz)
